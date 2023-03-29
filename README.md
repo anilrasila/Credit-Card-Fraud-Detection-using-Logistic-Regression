@@ -1,4 +1,4 @@
-# Logistic-Regression
+# Logistic-Regression:  Credit Card Fraud Detection
 This repository contain Logistic Regression machine learning algorithm
 We have built a Credit card Fraud Detection system using Machine Learning with Python. For this project, we have used the Logistic Regression model.
 
